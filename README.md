@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Add Extension Tests acro
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps:
 ## Step 1: Get the zip file (Skip this if you already have the zip file with you)
 
